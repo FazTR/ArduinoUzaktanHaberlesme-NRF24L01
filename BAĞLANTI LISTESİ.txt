@@ -10,17 +10,3 @@
                     MISO           12                         MISO          14
                     CSN            8                          CSN           10
                     MOSI           11                         MOSI          16
-
-                                      
-   
-   
-   
-   
-   
-
-   
-   
-   
-   
- 
-
